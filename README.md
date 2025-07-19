@@ -18,7 +18,7 @@
 - **📝 Content Management System (CMS)** enables streamlined article creation and publishing.
 - **📊 Integrated Data Analytics Dashboard** provides real-time insights into performance.
 - **🌐 Digital Repository** offers centralized access to content and supports reader interaction.
-- **👥 User-Friendly Interface** ensures an enhanced experience for readers.
+- **👥 User-Centered Interface** ensures an enhanced experience for readers.
 - **🔐 Secure Authentication** protects access for publication staff.
 
 ---
